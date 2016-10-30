@@ -1,0 +1,22 @@
+#include <valarray>
+#include <bitset>
+#include <complex>
+#include <complex>
+#include <vector>
+#include <string>
+#include <iostream>
+#include <iomanip>
+#include <sstream>
+#include <fstream>
+#include <map>
+
+using std::vector;
+using std::string;
+using std::cout;
+using std::endl;
+using std::stringstream;
+using std::istringstream;
+using std::ostringstream;
+using std::map;
+using std::setprecision;
+using std::iostream;
